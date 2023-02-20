@@ -1,8 +1,0 @@
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.AssemblyInfoInputs.cache
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.AssemblyInfo.cs
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.csproj.CoreCompileInputs.cache
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.RazorAssemblyInfo.cache
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.RazorAssemblyInfo.cs
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-tierPatterArc\obj\Debug\net5.0\PresentationLayer.csproj.AssemblyReference.cache
