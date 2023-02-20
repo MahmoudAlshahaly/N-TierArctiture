@@ -1,0 +1,15 @@
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.deps.json
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\bin\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.pdb
