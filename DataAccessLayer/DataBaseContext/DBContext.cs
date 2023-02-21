@@ -10,10 +10,15 @@ namespace DataAccessLayer.DataBaseContext
 {
     public class DBContext:DbContext
     {
-        public DbSet<Department> Departments { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public DBContext(DbContextOptions<DBContext> options):base(options)
         {
-            optionsBuilder.UseSqlServer("server=.;database=NtierDB;integrated security=true");
+
         }
+        public DbSet<Department> Departments { get; set; }
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("server=.;database=NtierDB;integrated security=true");
+        //}
     }
 }

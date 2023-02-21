@@ -109,7 +109,6 @@ C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\
 C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\obj\Debug\net5.0\PresentLayer.AssemblyInfoInputs.cache
 C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\obj\Debug\net5.0\PresentLayer.AssemblyInfo.cs
 C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\obj\Debug\net5.0\PresentLayer.csproj.CoreCompileInputs.cache
-C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\obj\Debug\net5.0\PresentLayer.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\obj\Debug\net5.0\PresentLayer.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\obj\Debug\net5.0\staticwebassets\PresentLayer.StaticWebAssets.Manifest.cache
 C:\Users\Eng-Mahmoud Ahmed\Desktop\N-tierPatterArc\N-TierArctiture\PresentLayer\obj\Debug\net5.0\staticwebassets\PresentLayer.StaticWebAssets.xml
