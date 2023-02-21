@@ -5926,11 +5926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\PresentLayer\\PresentLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\PresentLayer\\PresentLayer.csproj",
       "projectName": "PresentLayer",
-      "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\PresentLayer\\PresentLayer.csproj",
+      "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\PresentLayer\\PresentLayer.csproj",
       "packagesPath": "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\PresentLayer\\obj\\",
+      "outputPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\PresentLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5953,8 +5953,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
             }
           }
         }

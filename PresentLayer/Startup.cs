@@ -1,3 +1,5 @@
+using BusinessLogicLayer.Interface;
+using BusinessLogicLayer.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -24,8 +26,23 @@ namespace PresentLayer
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {
-
+        { 
+            //dependancy injection
+            
+            //each request take instance of object 
+            //services.AddTransient<DepartmentVM>();
+           
+            
+            // take one instance of object  for each user
+            //tightly coupled
+            //services.AddScoped<DepartmentRepository>();
+           
+            //loosly coupled
+            services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            // take one(shared) instance of object  for all users
+            
+            
+            //services.AddSingleton<DepartmentVM>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

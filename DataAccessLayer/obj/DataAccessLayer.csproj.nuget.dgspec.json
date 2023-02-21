@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

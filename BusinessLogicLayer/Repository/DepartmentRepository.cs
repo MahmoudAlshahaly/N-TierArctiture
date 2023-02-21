@@ -13,9 +13,6 @@ namespace BusinessLogicLayer.Repository
     public class DepartmentRepository : IDepartmentRepository
     {
         DBContext db = new DBContext();
-
-
-
         public IQueryable<DepartmentVM> GetAll()
         {
             var data = db.Departments.Select(a => new DepartmentVM { id = a.id, name = a.name, code = a.code });
@@ -38,15 +35,19 @@ namespace BusinessLogicLayer.Repository
         }
 
         public void Delete(int id)
-        {
+        {    
+            //var d = db.Departments.Find(id);
             Department d = db.Departments.Where(a => a.id==id).FirstOrDefault();
             db.Departments.Remove(d);
             db.SaveChanges();
         }
         public void Update(DepartmentVM dpt)
         {
+            //var d = db.Departments.Find(id);
+            //d.name = dpt.name;
+            //d.code = dpt.code;
+
             Department d = db.Departments.Where(a => a.id == dpt.id).FirstOrDefault();
-            d.id = dpt.id;
             d.name = dpt.name;
             d.code = dpt.code;
             db.SaveChanges();

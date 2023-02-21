@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RHrcNyPFCqpfLgpjzvOz8l7msRS3eoywEg9FVg1qykgWnKJJTwFNaA0f46IUrewAB+Dn8SXducMcHqoHc/GKYw==",
+  "dgSpecHash": "9OASnDIJvNqpNaO8RToZeBBtA/r8yBsQMUNwmiIujoQ+FPpWVXA78Ccz7cr7vgEGtB7V2nimqTFIJQr62EXqsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

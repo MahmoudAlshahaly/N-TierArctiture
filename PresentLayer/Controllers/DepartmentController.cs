@@ -1,5 +1,6 @@
 ﻿using BusinessLogicLayer.Models;
 using BusinessLogicLayer.Repository;
+using BusinessLogicLayer.Interface;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -8,12 +9,29 @@ using System.Threading.Tasks;
 
 namespace PresentLayer.Controllers
 {
-    [ApiController]
+   // [ApiController]
     [Route("[controller]")]
     public class DepartmentController : ControllerBase
     {
-         DepartmentRepository department = new DepartmentRepository();
-
+        //loosly coupled
+        //
+        private readonly IDepartmentRepository department;
+        public DepartmentController(IDepartmentRepository department)
+        {
+            this.department = department;
+        }
+        //tightly coupled  اي تغير في الكلاس بتاع الريبو دبرت منت  هياثر
+        //عليه هنا يعني لو جيت ف دالة وعدلت ف البدي بتاعها هتاثر عليه
+        //هنا  علي العاكس ف اللوزلي كبل مش هيبقي فيه تاثير مباشر ولاكن هيبقي فيه تاثير بردة بس غير مباشر   
+        ////private readonly DepartmentRepository department;
+        //inject object in ctor
+        //علشان اخلي الاوبجكت الا جوة الكونستراكتور ال انا حقتنة ده
+        //وعملت الانستانس بتاعة ف ال استارت اب عشان اخلية متشاف علي مستوي الكونترولر
+        //فكنت مضطر اعمل اوبجكت جديد الا هوه الريد اونلين واسوية بيه داخل الكونستراكتور علشان الكل يبقة شايفة 
+        ////public DepartmentController(DepartmentRepository department)
+        ////{
+        ////    this.department = department;
+        ////}
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -47,8 +65,14 @@ namespace PresentLayer.Controllers
         [HttpPut]
         public IActionResult Update(DepartmentVM dpt)
         {
-            department.Update(dpt);
-
+            if (ModelState.IsValid)
+            {
+                department.Update(dpt);
+            }
+            else
+            {
+                return BadRequest();
+            }
             return Ok(dpt);
         }
     }

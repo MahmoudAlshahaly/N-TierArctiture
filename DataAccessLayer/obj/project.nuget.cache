@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WhKZpaGKX+v3OpmLe95T2IMnedWipCxKAkiwyFfhgvPFdIpZACf/RkrC/9nEg1TDfERfXo6VZv2KkPM4xChgdg==",
+  "dgSpecHash": "uyGq9IdWT371g/9I3M8hCqKNw7HUOoyoh12n2KdDBnbHivLb1+zSL0sOichcC09rxEjqOPlVMxpvCCUIwKhKLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

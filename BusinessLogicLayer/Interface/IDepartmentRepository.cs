@@ -7,14 +7,12 @@ using System.Threading.Tasks;
 
 namespace BusinessLogicLayer.Interface
 {
-    interface IDepartmentRepository
+    public interface IDepartmentRepository
     {
         IQueryable<DepartmentVM> GetAll();
         DepartmentVM GetByID(int id);
         void Add(DepartmentVM dpt);
         void Delete(int id);
         void Update(DepartmentVM dpt);
-
-
     }
 }

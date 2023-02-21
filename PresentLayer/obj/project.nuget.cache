@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+srB3Lf4DPMa+8zLgohsk0ldWfkJ4acanWgxzoMWHKYehpK8lYWFleUSkDrjDVyvpCtwO901uTyoVJI2v7yRg==",
+  "dgSpecHash": "EmQW9U4LaDI8BbJXNv7nxxVTpalIrX1VwK4rIh7fbWN19ndgh5coc9bXzkUylQJ/8tzNWq6QATRMYB5t1MhcwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\PresentLayer\\PresentLayer.csproj",
+  "projectFilePath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\N-tierPatterArc\\N-TierArctiture\\PresentLayer\\PresentLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
